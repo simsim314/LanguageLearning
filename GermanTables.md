@@ -1,0 +1,83 @@
+| Verb        | Tense               | Usage/Meaning                                | Example                                        | English Translation                            |
+|-------------|---------------------|----------------------------------------------|------------------------------------------------|------------------------------------------------|
+| **(none)**  | Present (Präsens)    | Used for actions happening right now or general truths (no auxiliary verb is needed). | **Wir essen.**                                 | We are eating. / We eat.                       |
+| **sind**    | Present (Präsens)    | Used to describe states of being, conditions, or locations (conjugation of "sein"). | **Wir sind hier.**                            | We are here.                                   |
+| **haben**   | Present (Präsens)    | Used for possession or needs, and as an auxiliary verb in perfect tenses. | **Wir haben Hunger.**                          | We are hungry.                                 |
+| **werden**  | Future (Futur I)     | Indicates future actions.                    | **Wir werden kommen.**                        | We will come.                                  |
+| **haben**   | Present Perfect (Perfekt) | Forms the perfect tense with the past participle for completed actions. | **Wir haben gegessen.**                        | We have eaten.                                 |
+| **sind**    | Present Perfect (Perfekt) | Forms the perfect tense for motion/transition verbs with the past participle. | **Wir sind gegangen.**                        | We have gone.                                  |
+| **hatten**  | Past Perfect (Plusquamperfekt) | Used with transitive verbs (verbs that take a direct object) and many intransitive verbs to describe an action that occurred before another past action. | **Wir hatten gegessen.**                       | We had eaten.                                  |
+| **waren**   | Past Perfect (Plusquamperfekt) | Used with motion verbs and verbs indicating a change of state to describe an action before another past action. | **Wir waren gegangen.**                      | We had gone.                                   |
+| **werden**  | Future Perfect (Futur II) | Describes an action that will have been completed by a certain point in the future. | **Wir werden gegessen haben.**                | We will have eaten.                            |
+| **werden**  | Passive Voice        | Used with a past participle to form the passive voice.   | **Das Buch wird gelesen werden.**              | The book will be read.                        |
+
+Sure! Below are the conjugation tables for **"sein"** (to be), **"haben"** (to have), **"werden"** (to become/will), and **"waren"** (past tense of "sein" - was/were) in different forms.
+
+### 1. **Conjugation of "sein" (to be) in Present Tense (Präsens):**
+
+| Pronoun     | Conjugation   | English Translation  |
+|-------------|---------------|-----------------------|
+| **ich**     | **bin**       | I am                  |
+| **du**      | **bist**      | you are (informal)    |
+| **er/sie/es** | **ist**     | he/she/it is          |
+| **wir**     | **sind**      | we are                |
+| **ihr**     | **seid**      | you all are           |
+| **sie/Sie** | **sind**      | they are / you are (formal) |
+
+### 2. **Conjugation of "haben" (to have) in Present Tense (Präsens):**
+
+| Pronoun     | Conjugation   | English Translation  |
+|-------------|---------------|-----------------------|
+| **ich**     | **habe**      | I have                |
+| **du**      | **hast**      | you have (informal)   |
+| **er/sie/es** | **hat**     | he/she/it has         |
+| **wir**     | **haben**     | we have               |
+| **ihr**     | **habt**      | you all have          |
+| **sie/Sie** | **haben**     | they have / you have (formal) |
+
+### 3. **Conjugation of "werden" (to become/will) in Present Tense (Präsens):**
+
+| Pronoun     | Conjugation   | English Translation  |
+|-------------|---------------|-----------------------|
+| **ich**     | **werde**     | I will / I become     |
+| **du**      | **wirst**     | you will / you become (informal) |
+| **er/sie/es** | **wird**    | he/she/it will / he/she/it becomes |
+| **wir**     | **werden**    | we will / we become   |
+| **ihr**     | **werdet**    | you all will / you all become |
+| **sie/Sie** | **werden**    | they will / they become / you (formal) will/become |
+
+### 4. **Conjugation of "waren" (Past Tense of "sein" - was/were):**
+
+| Pronoun     | Conjugation   | English Translation  |
+|-------------|---------------|-----------------------|
+| **ich**     | **war**       | I was                 |
+| **du**      | **warst**     | you were (informal)   |
+| **er/sie/es** | **war**     | he/she/it was         |
+| **wir**     | **waren**     | we were               |
+| **ihr**     | **wart**      | you all were          |
+| **sie/Sie** | **waren**     | they were / you were (formal) |
+
+### Summary:
+
+- **Sein** (Present Tense - to be): Used to describe states of being, locations, or conditions in the present.
+- **Haben** (Present Tense - to have): Used to express possession or needs in the present.
+- **Werden** (Present Tense - to become/will): Used to indicate future actions or transformations.
+- **Waren** (Past Tense of "sein"): Used to describe states of being, locations, or conditions in the past.
+
+| English     | Nominative (Subject) | Accusative (Direct Object) | Dative (Indirect Object) | Genitive (Possessive) |
+|-------------|-----------------------|-----------------------------|---------------------------|------------------------|
+| **He**      | er                    | ihn                         | ihm                       | -                      |
+| **She**     | sie                   | sie                         | ihr                       | -                      |
+| **It**      | es                    | es                          | ihm                       | -                      |
+| **They**    | sie                   | sie                         | ihnen                     | -                      |
+| **Him**     | -                     | ihn                         | ihm                       | -                      |
+| **Her**     | -                     | sie                         | ihr                       | -                      |
+| **His**     | -                     | -                           | -                         | sein                   |
+| **Her** (possessive) | -            | -                           | -                         | ihr                    |
+| **Its**     | -                     | -                           | -                         | sein                   |
+| **Their**   | -                     | -                           | -                         | ihr                    |
+| **Mine**    | -                     | -                           | -                         | mein                   |
+| **Yours** (informal singular) | du | dich                        | dir                       | dein                   |
+| **Yours** (formal singular/plural) | Sie | Sie                    | Ihnen                     | Ihr                    |
+| **Ours**    | wir                   | uns                         | uns                       | unser                  |
+| **Yours** (informal plural) | ihr   | euch                        | euch                      | euer                   |
