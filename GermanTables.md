@@ -1,3 +1,61 @@
+| **Case**        | **Function**                          | **Explanation**                                                  | **Example**                                 | **Translation**                            |
+|-----------------|---------------------------------------|------------------------------------------------------------------|---------------------------------------------|--------------------------------------------|
+| **Nominative**  | Subject                               | Identifies the subject of the sentence (who/what performs the action). | **Der Hund bellt.**                         | The dog barks.                             |
+| **Accusative**  | Direct Object                         | Marks the direct object (who/what is directly affected by the action). | **Ich sehe den Hund.**                      | I see the dog.                             |
+| **Dative**      | Indirect Object                       | Indicates the indirect object (to whom/for whom the action is done). | **Ich gebe dem Mann das Buch.**             | I give the man the book.                   |
+| **Genitive**    | Possession                            | Expresses possession or close relationships (whose).             | **Das ist das Buch des Mannes.**            | That is the man's book.                    |
+
+### 1. **Nouns:**
+| **Case**        | **Masculine**        | **Feminine**         | **Neuter**           | **Plural**            |
+|-----------------|----------------------|----------------------|----------------------|------------------------|
+| **Nominative**  | der Mann              | die Frau             | das Kind             | die Hunde              |
+| **Accusative**  | den Mann              | die Frau             | das Kind             | die Hunde              |
+| **Dative**      | dem Mann              | der Frau             | dem Kind             | den Hunden             |
+| **Genitive**    | des Mannes            | der Frau             | des Kindes           | der Hunde              |
+
+- **Genitive**: Masculine and neuter nouns often add **-s** or **-es** in the genitive case.
+
+### 2. **Articles:**
+| **Case**        | **Masculine**        | **Feminine**         | **Neuter**           | **Plural**            |
+|-----------------|----------------------|----------------------|----------------------|------------------------|
+| **Nominative**  | der                   | die                  | das                  | die                   |
+| **Accusative**  | den                   | die                  | das                  | die                   |
+| **Dative**      | dem                   | der                  | dem                  | den                   |
+| **Genitive**    | des                   | der                  | des                  | der                   |
+
+- Articles indicate the noun's case and function within the sentence.
+
+### 3. **Pronouns:**
+| **Case**        | **1st Person (I)**    | **2nd Person (You)** | **3rd Person (He)**  | **3rd Person (She)**  | **3rd Person (It)**   |
+|-----------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|
+| **Nominative**  | ich                    | du                    | er                    | sie                   | es                    |
+| **Accusative**  | mich                   | dich                  | ihn                   | sie                   | es                    |
+| **Dative**      | mir                    | dir                   | ihm                   | ihr                   | ihm                   |
+| **Genitive**    | meiner                 | deiner                | seiner                | ihrer                 | seiner                |
+
+- Pronouns change form based on their role as subject, direct object, indirect object, or possessive.
+
+### 4. **Adjective Endings:**
+| **Case**        | **Definite Article**  | **Indefinite Article** | **No Article**       |
+|-----------------|-----------------------|-------------------------|-----------------------|
+| **Nominative**  | der große Hund         | ein großer Hund         | großer Hund           |
+| **Accusative**  | den großen Hund        | einen großen Hund       | großen Hund           |
+| **Dative**      | dem großen Hund        | einem großen Hund       | großem Hund           |
+| **Genitive**    | des großen Hundes      | eines großen Hundes     | großen Hundes         |
+
+- Adjective endings depend on the case, gender of the noun, and whether the noun has a definite or indefinite article.
+
+### 5. **Word Order and Case Usage:**
+| **Case**        | **Function**                     | **Example**                                 | **Translation**                            |
+|-----------------|----------------------------------|---------------------------------------------|--------------------------------------------|
+| **Nominative**  | Subject                          | Der Hund bellt.                             | The dog barks.                             |
+| **Accusative**  | Direct Object                    | Ich sehe den Hund.                          | I see the dog.                             |
+| **Dative**      | Indirect Object                  | Ich gebe dem Mann das Buch.                 | I give the man the book.                   |
+| **Genitive**    | Possession                       | Das ist das Buch des Mannes.                | That is the man's book.                    |
+
+
+----------
+
 | Verb        | Tense               | Usage/Meaning                                | Example                                        | English Translation                            |
 |-------------|---------------------|----------------------------------------------|------------------------------------------------|------------------------------------------------|
 | **(none)**  | Present (Präsens)    | Used for actions happening right now or general truths (no auxiliary verb is needed). | **Wir essen.**                                 | We are eating. / We eat.                       |
