@@ -26,12 +26,12 @@
 - Articles indicate the noun's case and function within the sentence.
 
 ### 3. **Pronouns:**
-| **Case**        | **1st Person (I)**    | **2nd Person (You)** | **3rd Person (He)**  | **3rd Person (She)**  | **3rd Person (It)**   |
-|-----------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|
-| **Nominative**  | ich                    | du                    | er                    | sie                   | es                    |
-| **Accusative**  | mich                   | dich                  | ihn                   | sie                   | es                    |
-| **Dative**      | mir                    | dir                   | ihm                   | ihr                   | ihm                   |
-| **Genitive**    | meiner                 | deiner                | seiner                | ihrer                 | seiner                |
+| **Case**       | **1st Person (I)**  | **2nd Person (You)** | **3rd Person (He)** | **3rd Person (She)** | **3rd Person (It)** |
+|----------------|---------------------|-----------------------|----------------------|-----------------------|----------------------|
+| **Nominative** | **ich** (я)          | **du** (ты)           | **er** (он)          | **sie** (она)         | **es** (оно)         |
+| **Accusative** | **mich** (меня)      | **dich** (тебя)       | **ihn** (его)        | **sie** (её)          | **es** (его)         |
+| **Dative**     | **mir** (мне)        | **dir** (тебе)        | **ihm** (ему)        | **ihr** (ей)          | **ihm** (ему)        |
+| **Genitive**   | **meiner** (моего)   | **deiner** (твоего)   | **seiner** (его)     | **ihrer** (её)        | **seiner** (его)     |
 
 - Pronouns change form based on their role as subject, direct object, indirect object, or possessive.
 
