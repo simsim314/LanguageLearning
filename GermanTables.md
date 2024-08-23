@@ -161,3 +161,73 @@ Sure! Below are the conjugation tables for **"sein"** (to be), **"haben"** (to h
 | **Yours** (formal singular/plural) | Sie | Sie                    | Ihnen                     | Ihr                    |
 | **Ours**    | wir                   | uns                         | uns                       | unser                  |
 | **Yours** (informal plural) | ihr   | euch                        | euch                      | euer                   |
+
+
+-------------
+
+Certainly! Below is a list of **reflexive verbs with prepositions** that require reflexive pronouns like **"mich," "dich," "sich," etc.** These verbs always include a reflexive pronoun in addition to the prepositional phrase.
+
+### Reflexive Verbs with Prepositions (requiring **mich/dich/sich**):
+
+1. **sich ärgern über** (+ Akk.) – to be annoyed about
+   - **Example**: **Ich ärgere mich über den Regen.** (I am annoyed about the rain.)
+
+2. **sich bedanken für** (+ Akk.) – to thank for
+   - **Example**: **Ich bedanke mich für das Geschenk.** (I thank you for the gift.)
+
+3. **sich bedanken bei** (+ Dat.) – to thank someone
+   - **Example**: **Ich bedanke mich bei meiner Freundin.** (I thank my friend.)
+
+4. **sich bemühen um** (+ Akk.) – to strive for
+   - **Example**: **Ich bemühe mich um eine neue Stelle.** (I am striving for a new job.)
+
+5. **sich beschweren bei** (+ Dat.) – to complain to
+   - **Example**: **Ich beschwere mich bei dem Chef.** (I am complaining to the boss.)
+
+6. **sich beschweren über** (+ Akk.) – to complain about
+   - **Example**: **Ich beschwere mich über das Essen.** (I am complaining about the food.)
+
+7. **sich bewerben um** (+ Akk.) – to apply for
+   - **Example**: **Ich bewerbe mich um die Stelle.** (I am applying for the job.)
+
+8. **sich beziehen auf** (+ Akk.) – to refer to
+   - **Example**: **Ich beziehe mich auf Ihren Brief.** (I refer to your letter.)
+
+9. **sich entschuldigen bei** (+ Dat.) – to apologize to
+   - **Example**: **Ich entschuldige mich bei dir.** (I apologize to you.)
+
+10. **sich entschuldigen für** (+ Akk.) – to apologize for
+   - **Example**: **Ich entschuldige mich für den Fehler.** (I apologize for the mistake.)
+
+11. **sich erinnern an** (+ Akk.) – to remember
+   - **Example**: **Ich erinnere mich an den Urlaub.** (I remember the vacation.)
+
+12. **sich freuen auf** (+ Akk.) – to look forward to
+   - **Example**: **Ich freue mich auf das Wochenende.** (I am looking forward to the weekend.)
+
+13. **sich freuen über** (+ Akk.) – to be happy about
+   - **Example**: **Ich freue mich über die Nachricht.** (I am happy about the news.)
+
+14. **sich gewöhnen an** (+ Akk.) – to get used to
+   - **Example**: **Ich gewöhne mich an das Wetter.** (I am getting used to the weather.)
+
+15. **sich interessieren für** (+ Akk.) – to be interested in
+   - **Example**: **Ich interessiere mich für Kunst.** (I am interested in art.)
+
+16. **sich konzentrieren auf** (+ Akk.) – to concentrate on
+   - **Example**: **Ich konzentriere mich auf die Arbeit.** (I am concentrating on the work.)
+
+17. **sich kümmern um** (+ Akk.) – to take care of
+   - **Example**: **Ich kümmere mich um die Kinder.** (I take care of the children.)
+
+18. **sich verlassen auf** (+ Akk.) – to rely on
+   - **Example**: **Ich verlasse mich auf dich.** (I rely on you.)
+
+19. **sich verlieben in** (+ Akk.) – to fall in love with
+   - **Example**: **Ich verliebe mich in dich.** (I am falling in love with you.)
+
+20. **sich vorbereiten auf** (+ Akk.) – to prepare for
+   - **Example**: **Ich bereite mich auf die Prüfung vor.** (I am preparing for the exam.)
+
+21. **sich wundern über** (+ Akk.) – to be surprised about
+   - **Example**: **Ich wundere mich über die Entscheidung.** (I am surprised about the decision.)
