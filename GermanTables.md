@@ -5,6 +5,12 @@
 | **Dative**      | Indirect Object                       | Indicates the indirect object (to whom/for whom the action is done). | **Ich gebe dem Mann das Buch.**             | I give the man the book.                   |
 | **Genitive**    | Possession                            | Expresses possession or close relationships (whose).             | **Das ist das Buch des Mannes.**            | That is the man's book.                    |
 
+| **Gender**       | **Nominative** | **Accusative** | **Dative** | **Genitive**  |
+|------------------|----------------|----------------|------------|--------------|
+| **Masculine**    | ein Hund       | einen Hund     | einem Hund | eines Hundes |
+| **Feminine**     | eine Katze     | eine Katze     | einer Katze | einer Katze  |
+| **Neuter**       | ein Kind       | ein Kind       | einem Kind | eines Kindes |
+
 ### 1. **Nouns:**
 | **Case**        | **Masculine**        | **Feminine**         | **Neuter**           | **Plural**            |
 |-----------------|----------------------|----------------------|----------------------|------------------------|
